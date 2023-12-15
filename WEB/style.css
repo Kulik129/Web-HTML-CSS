@@ -1,0 +1,40 @@
+/* 
+padding - Внутренний отступ
+margin - Внешний отступ
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    padding-top: 39px;  /* padding это когда элемент внутри блока и он смотрит растояние до ближайшей граници блока в которой он находится */
+    padding-bottom: 39px;
+}
+
+.top__image {
+    width: 414px;
+height: 415px;
+}
+
+.top__content {
+    margin-top: 160px;
+}
+.one_text {
+
+}
+.two_text {
+    margin-top: 10px;
+}
+.thre_text {
+    margin-top: 40px;
+}
+.top__button {
+    margin-top: 50px;
+}
+
+.top__logo {
+    margin-top: 197px;
+
+}
